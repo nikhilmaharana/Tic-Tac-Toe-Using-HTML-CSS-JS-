@@ -58,3 +58,8 @@ h1{
 .hide{
     display: none;
 }
+.foot{
+    padding: 1rem;
+    text-decoration: line-through;
+    color: #BC4B51;
+}
